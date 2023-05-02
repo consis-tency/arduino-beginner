@@ -5,7 +5,6 @@ void setup() {
   pinMode(12, OUTPUT);
 
 }
-//Learning GitHub push
 void loop() {
   // put your main code here, to run repeatedly:
   digitalWrite(13, HIGH);
